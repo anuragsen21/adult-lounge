@@ -1,0 +1,53 @@
+.chat-ul {
+    height: 295px;
+}
+
+.perform-right-widget .box003 .btm-form input[type="button"] {
+    padding: 8px;
+    background: #cececd;
+    border: none;
+    width: 20%;
+    font-family: 'ADAM-CGPRO';
+    font-size: 0.75rem;
+    color: #fff;
+    background: -moz-linear-gradient(left, rgba(227, 196, 124, 1) 0%, rgba(170, 142, 82, 1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(227, 196, 124, 1)), color-stop(100%, rgba(170, 142, 82, 1)));
+    background: -webkit-linear-gradient(left, rgba(227, 196, 124, 1) 0%, rgba(170, 142, 82, 1) 100%);
+    background: -o-linear-gradient(left, rgba(227, 196, 124, 1) 0%, rgba(170, 142, 82, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(227, 196, 124, 1) 0%, rgba(170, 142, 82, 1) 100%);
+    background: linear-gradient(to right, rgba(227, 196, 124, 1) 0%, rgba(170, 142, 82, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e3c47c', endColorstr='#aa8e52', GradientType=1);
+}
+
+.browstwo {
+    border: 1px solid #b8a368;
+    padding: 11px 20px;
+    width: auto;
+    float: left;
+    font-size: 0.6875rem;
+    color: #b8a368;
+    background: none;
+}
+
+.no-subs {
+    text-align: center;
+    color: #b8a368;
+    height: 50px;
+}
+
+.no-subs {
+	text-align: center;
+    color: #d3b570;
+    font-size: 20px;
+    padding: 15px 0;
+    height: 153px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.no-subs-ac {
+    text-align: center;
+    color: #d3b570;
+    font-size: 45px;
+}
